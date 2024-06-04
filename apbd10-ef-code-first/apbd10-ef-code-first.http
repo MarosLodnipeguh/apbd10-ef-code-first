@@ -1,0 +1,6 @@
+@apbd10_ef_code_first_HostAddress = http://localhost:5179
+
+GET {{apbd10_ef_code_first_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
